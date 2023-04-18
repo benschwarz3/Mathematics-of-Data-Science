@@ -2,10 +2,3 @@
 
 Notes
 
-
-$ ./bin/generate_makefile
-
-$ make all_animations
-
-$ make
-
