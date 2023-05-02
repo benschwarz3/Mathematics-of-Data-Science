@@ -1,4 +1,4 @@
-# Spring-2023
+# Mathematics of Data Science
 
 Notes
 
