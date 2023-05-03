@@ -5,6 +5,8 @@ Animal data set
 
 Using AlexNet to help identify the distinguishing characteristics in animals to determine whether they are classified as “land” (terrestrial) or “sea” (aquatic) creatures.
 
+This project helps to encapsulate just how effective AI and AlexNet can be with small, intricate tasks. If AlexNet is able to perform well with this task, it could pave the way for the future integration of AlexNet and other AI recognition systems into more and more everyday tasks. 
+
 <img width="366" alt="Picture1" src="https://user-images.githubusercontent.com/123206563/235856430-225bfd44-17dc-4f29-afab-b189d77f8c6b.png">
 
 # Animals
@@ -83,6 +85,6 @@ Dropout regularization is used in the fully connected layers to prevent overfitt
 
 <img width="134" alt="Picture15" src="https://user-images.githubusercontent.com/123206563/235856104-b4a216ae-9604-4dd4-9950-a82170dee09a.png">
 
+While there is room for improvement given the resulting data accuracy differences, this project clearly shows that AlexNet is ready to contribute to the real-world in numerous different ways. 
 
-This project helps to encapsulate just how effective AI and AlexNet can be with small, intricate tasks. If AlexNet is able to perform well with this task, it could pave the way for the future integration of AlexNet and other AI recognition systems into more and more everyday tasks. 
-Note
+https://youtu.be/Ue3yt39xKHE 
