@@ -5,7 +5,7 @@ Animal data set
 
 Using AlexNet to help identify the distinguishing characteristics in animals to determine whether they are classified as “land” (terrestrial) or “sea” (aquatic) creatures.
 
-(<img width="366" alt="Picture1" src="https://user-images.githubusercontent.com/123206563/235854701-be8b6f9b-7198-4c25-9c23-e174adb506d7.png">.png)
+<img width="366" alt="Picture1" src="https://user-images.githubusercontent.com/123206563/235856430-225bfd44-17dc-4f29-afab-b189d77f8c6b.png">
 
 # Animals
 <img width="226" alt="Picture2" src="https://user-images.githubusercontent.com/123206563/235855001-3c7e7655-fe82-42ab-86b1-6ed903206ca3.png">
